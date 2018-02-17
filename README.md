@@ -1,2 +1,2 @@
-# analisador-rebeliao-twitter
-Projeto  de Análise de Redes Sociais através do Twitter para verificar o comportamento  da socieade e da imprensa amazonense em relação as rebeliões ocorridas nos presidios em Manaus,no mês de Janeiro/2017
+# analysis-sentiment-impeachment
+Projeto de análise de sentimentos em redes sociais que visa coletar informações positivas e negativas em relação ao Impeachment da ex presidenta Dilma , no ano de 2016 .
